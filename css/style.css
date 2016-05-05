@@ -1,0 +1,26 @@
+body {
+  color: #fff;
+}
+
+.container {
+  max-width: 20em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  text-align: center;
+  background-color: #6495ED;
+  padding: 1em 0.5em 2em 0.5em;
+  border-radius: 1em;
+}
+
+form {
+  padding-bottom: 2em;
+}
+
+#submit-button {
+  background-color: rgb(241, 84, 73);
+  border-style: none;
+  padding: 0.5em 0.8em;
+  border-radius: 0.3em;
+  color: #fff;
+}
